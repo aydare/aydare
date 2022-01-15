@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Gideon Dare
 - 👀 I’m interested in datascience and data visualization projects. 
 - 🌱 I’m currently learning data science at SMU.
+- 💰 I currently work on data science  &  data visualization projects for work
 - 💞️ I’m looking to collaborate on open source projects and data sources. 
 - 📫 How to reach me on LinkedIn https://www.linkedin.com/in/ayoade-dare-datascience/
 
